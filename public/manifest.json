@@ -2,7 +2,7 @@
     "name": "Budget Tracker Application",
     "short_name": "Budget Tracker",
     "start_url": "/",
-    "background_color": "ffffff",
+    "background_color": "#ffffff",
     "display": "standalone",
-    "theme_color": "ffffff"
+    "theme_color": "#ffffff"
   }
